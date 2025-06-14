@@ -4,6 +4,7 @@ body {
   border: 8px solid black;
   justify-content: center;
   align-items: center;
+  align-content: center;
   flex-wrap: wrap;
   gap: 20px;
 }
