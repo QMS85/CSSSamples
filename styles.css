@@ -18,3 +18,9 @@ body {
   background-color: #0071FF;
   font-size: 40px;
 }
+
+@media(max-width: 575px){
+  body {
+    flex-wrap: wrap;
+  }
+}
